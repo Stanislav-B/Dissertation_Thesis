@@ -9,7 +9,7 @@ S. Basarik, J. Borzová, L. Halčinová: Survival functions versus conditional a
     
 S. Basarik, J. Borzová, L. Halčinová, J. Šupina: Conditional aggregation-based Choquet integral on discrete space. (submitted)
 
-S. Basarik, L. Halčinová: On permutations dependent operators. (submitted)
+S. Basarik, L. Halčinová: On permutations dependent operators. International Journal of Approximate Reasoning, 175 (2024), 109294, https://doi.org/10.1016/j.ijar.2024.109294
     
 S. Basarik, L. Halčinová: Extended permutations dependent Choquet-like operator and application. (accepted)
 
